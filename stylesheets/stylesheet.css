@@ -171,6 +171,13 @@ a.button span {
 #view-on-homeicon {
   margin-right: 0;
 }
+/*二次元图标*/
+#view-on-anime span {
+  background: transparent url(../images/icon/anime01.png) 12px 50% no-repeat;
+}
+#view-on-anime {
+  margin-right: 0;
+}
 
 code, pre {
   margin-bottom: 30px;
