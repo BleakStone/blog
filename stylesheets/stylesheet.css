@@ -164,7 +164,7 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
-
+/*博客首页图标*/
 #view-on-homeicon span {
   background: transparent url(../images/icon/home02.png) 12px 50% no-repeat;
 }
@@ -176,6 +176,14 @@ a.button span {
   background: transparent url(../images/icon/anime01.png) 12px 50% no-repeat;
 }
 #view-on-anime {
+  margin-right: 0;
+}
+
+/*游戏图标*/
+#view-on-game span {
+  background: transparent url(../images/icon/wow.png) 12px 50% no-repeat;
+}
+#view-on-game {
   margin-right: 0;
 }
 
